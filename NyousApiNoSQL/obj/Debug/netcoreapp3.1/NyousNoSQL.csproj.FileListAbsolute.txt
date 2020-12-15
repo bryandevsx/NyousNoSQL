@@ -1,0 +1,60 @@
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\bin\Debug\netcoreapp3.1\NyousNoSQL.exe
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\bin\Debug\netcoreapp3.1\NyousNoSQL.deps.json
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\bin\Debug\netcoreapp3.1\NyousNoSQL.runtimeconfig.json
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\bin\Debug\netcoreapp3.1\NyousNoSQL.runtimeconfig.dev.json
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\bin\Debug\netcoreapp3.1\NyousNoSQL.dll
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\bin\Debug\netcoreapp3.1\NyousNoSQL.pdb
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\obj\Debug\netcoreapp3.1\NyousNoSQL.csprojAssemblyReference.cache
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\obj\Debug\netcoreapp3.1\NyousNoSQL.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\obj\Debug\netcoreapp3.1\NyousNoSQL.AssemblyInfo.cs
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\obj\Debug\netcoreapp3.1\NyousNoSQL.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\obj\Debug\netcoreapp3.1\NyousNoSQL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\obj\Debug\netcoreapp3.1\staticwebassets\NyousNoSQL.StaticWebAssets.Manifest.cache
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\obj\Debug\netcoreapp3.1\staticwebassets\NyousNoSQL.StaticWebAssets.xml
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\obj\Debug\netcoreapp3.1\scopedcss\bundle\NyousNoSQL.styles.css
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\obj\Debug\netcoreapp3.1\NyousNoSQL.RazorTargetAssemblyInfo.cache
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\obj\Debug\netcoreapp3.1\NyousNoSQL.csproj.CopyComplete
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\obj\Debug\netcoreapp3.1\NyousNoSQL.dll
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\obj\Debug\netcoreapp3.1\NyousNoSQL.pdb
+C:\Users\fic\Documents\Edux - Breno\NyousNoSQL\obj\Debug\netcoreapp3.1\NyousNoSQL.genruntimeconfig.cache
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\bin\Debug\netcoreapp3.1\NyousNoSQL.exe
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\bin\Debug\netcoreapp3.1\NyousNoSQL.deps.json
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\bin\Debug\netcoreapp3.1\NyousNoSQL.runtimeconfig.json
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\bin\Debug\netcoreapp3.1\NyousNoSQL.runtimeconfig.dev.json
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\bin\Debug\netcoreapp3.1\NyousNoSQL.dll
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\bin\Debug\netcoreapp3.1\NyousNoSQL.pdb
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\obj\Debug\netcoreapp3.1\NyousNoSQL.csprojAssemblyReference.cache
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\obj\Debug\netcoreapp3.1\NyousNoSQL.AssemblyInfoInputs.cache
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\obj\Debug\netcoreapp3.1\NyousNoSQL.AssemblyInfo.cs
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\obj\Debug\netcoreapp3.1\NyousNoSQL.csproj.CoreCompileInputs.cache
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\obj\Debug\netcoreapp3.1\NyousNoSQL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\obj\Debug\netcoreapp3.1\staticwebassets\NyousNoSQL.StaticWebAssets.Manifest.cache
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\obj\Debug\netcoreapp3.1\staticwebassets\NyousNoSQL.StaticWebAssets.xml
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\obj\Debug\netcoreapp3.1\scopedcss\bundle\NyousNoSQL.styles.css
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\obj\Debug\netcoreapp3.1\NyousNoSQL.RazorTargetAssemblyInfo.cache
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\obj\Debug\netcoreapp3.1\NyousNoSQL.csproj.CopyComplete
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\obj\Debug\netcoreapp3.1\NyousNoSQL.dll
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\obj\Debug\netcoreapp3.1\NyousNoSQL.pdb
+C:\Users\bryan\OneDrive\Documentos\Programações\NyousApiNoSQL\NyousApiNoSQL\obj\Debug\netcoreapp3.1\NyousNoSQL.genruntimeconfig.cache
